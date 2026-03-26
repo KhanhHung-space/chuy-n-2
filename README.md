@@ -1,4 +1,4 @@
-# Ứng dụng Quản lý Sinh viên (MVC - PHP thuần)
+# Ứng dụng Quản lý Sinh viên
 
 ## Cách chạy
 1. Copy thư mục `MVC_Sinhvien` vào thư mục `htdocs` của XAMPP.

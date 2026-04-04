@@ -5,7 +5,7 @@
    Ví dụ: C:\xampp\htdocs\MVC_Sinhvien
 2. Khởi động Apache trong XAMPP.
 3. Truy cập trình duyệt: http://localhost/MVC-Sinhvien/index.php?action=list
-4. link code (do code nhiều tệp quá không up được lên git nên up lên drive): https://drive.google.com/file/d/1nG4m1rKxhVFy8oS4q757uLXOS3VCnT9Q/view?usp=sharing
+4. link code (do code nhiều tệp quá không up được lên git nên up lên drive): https://drive.google.com/file/d/1nG4m1rKxhVFy8oS4q757uLXOS3VCnT9Q/view?usp=sharinghttps://drive.google.com/drive/folders/1kYMNAJSLysrbJ3Iwq89ZWghT7UBKDe7A
 ## Các chức năng đã làm
 - Hiển thị danh sách sinh viên (ID, Họ tên, Ngành học).
 - Thêm sinh viên (form nhập, > 3 ky tu, nghanh hoc khong de trong).
